@@ -1,0 +1,15 @@
+.alignCenter {
+  display: "flex";
+  height: "100vh";
+  text-align: center;
+  margin-top: 50px;
+}
+
+.button {
+  padding: 2px;
+  height: 38px;
+  width: 38px;
+  border-color: cornsilk;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
